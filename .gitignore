@@ -216,6 +216,3 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
-
-# Large GTFS data files (exceed GitHub's 100 MB limit)
-01_urban_mobility/data/gtfs/stop_times.txt
