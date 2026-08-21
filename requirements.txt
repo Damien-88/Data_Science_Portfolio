@@ -1,0 +1,46 @@
+# --- Database & SQL ---
+psycopg2-binary>=2.9.9
+SQLAlchemy>=2.0.25
+GeoAlchemy2>=0.14.3
+python-dotenv>=1.0.1
+
+# --- Core Data Science & Numerical Computing ---
+numpy>=1.26.4
+pandas>=2.2.0
+scipy>=1.12.0
+scikit-learn>=1.4.0
+statsmodels>=0.14.1
+
+# --- Geospatial & Spatial Statistics (Project 1) ---
+geopandas>=0.14.3
+shapely>=2.0.3
+pysal>=24.1
+folium>=0.15.1
+
+# --- Time-Series & Forecasting (Project 1 & 2) ---
+prophet>=1.1.5
+arch>=6.3.0             # GARCH volatility modeling
+
+# --- Financial Analytics (Project 2) ---
+RiskFolio-Lib>=6.0.0
+
+# --- NLP & Computational Linguistics (Project 3) ---
+spacy>=3.7.4
+nltk>=3.8.1
+gensim>=4.3.2
+umap-learn>=0.5.5
+
+# --- Simulation & Network Analysis (Project 4) ---
+mesa>=2.2.4
+networkx>=3.2.1
+
+# --- Visualization & Interactive Dashboards ---
+matplotlib>=3.8.3
+seaborn>=0.13.2
+plotly>=5.19.0
+streamlit>=1.31.1
+
+# --- Notebook Environment ---
+jupyter>=1.0.0
+ipython>=8.22.1
+ipython-sql>=0.5.0
