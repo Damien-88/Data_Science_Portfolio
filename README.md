@@ -69,7 +69,7 @@ $$\text{PostgreSQL} \longrightarrow \text{Python (Pandas / SciPy)} \longrightarr
 ```text
 ├── 01_urban_mobility/
 │   ├── 01_data_ingestion.ipynb
-│   ├── 02_exploratory_analysis.ipynb
+│   ├── 02_spatial_stats.ipynb
 │   ├── 03_statistical_modeling.ipynb
 │   └── 04_visualization_dashboard.ipynb
 ├── 02_financial_risk/
