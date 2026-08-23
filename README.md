@@ -70,7 +70,7 @@ $$\text{PostgreSQL} \longrightarrow \text{Python (Pandas / SciPy)} \longrightarr
 ├── 01_urban_mobility/
 │   ├── 01_data_ingestion.ipynb
 │   ├── 02_spatial_stats.ipynb
-│   ├── 03_statistical_modeling.ipynb
+│   ├── 03_predictive_modeling.ipynb
 │   └── 04_visualization_dashboard.ipynb
 ├── 02_financial_risk/
 ├── 03_computational_linguistics/
