@@ -22,6 +22,7 @@ prophet>=1.1.5
 arch>=6.3.0             # GARCH volatility modeling
 
 # --- Financial Analytics (Project 2) ---
+yfinance>=1.0.0
 RiskFolio-Lib>=6.0.0
 
 # --- NLP & Computational Linguistics (Project 3) ---
