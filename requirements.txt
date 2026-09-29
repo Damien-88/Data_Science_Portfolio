@@ -19,11 +19,9 @@ folium>=0.15.1
 
 # --- Time-Series & Forecasting (Project 1 & 2) ---
 prophet>=1.1.5
-arch>=6.3.0             # GARCH volatility modeling
 
 # --- Financial Analytics (Project 2) ---
 yfinance>=1.0.0
-RiskFolio-Lib>=6.0.0
 
 # --- NLP & Computational Linguistics (Project 3) ---
 spacy>=3.7.4
